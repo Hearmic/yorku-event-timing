@@ -1,0 +1,811 @@
+program,year,term_hint,slot,kind,course_code,credits,title,source
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,1,F,1,required,EECS 1011,3.0,Computational Thinking Through Procedural Programming and Mechatronics,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,1,F,2,required,ENG 1101,4.0,"Renaissance Engineer 1: Ethics, Communication and Problem Solving",2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,1,F,4,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,1,F,5,required,PHYS 1800,3.0,Engineering Mechanics,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,1,W,6,required,EECS 1021,3.0,Object Oriented Programming from Sensors to Actuators,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,1,W,7,required,ENG 1102,4.0,Renaissance Engineer 2: Engineering Design Principles,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,1,W,8,required,PHYS 1801,3.0,"Electricity, Magnetism and Optics for Engineers",2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,1,W,9,required,MATH 1014,3.0,Applied Calculus II,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,1,Any,10,required,TRON 1000,4.0,Mechatronics System Design and Implementation I,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,1,Any,11,required,TECL 1999,0.0,Leadership and Teamwork I,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,Any,12,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,Any,13,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,Any,14,required,EECS 2200,3.0,Electrical Circuits,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,Any,15,required,ENG 2003,3.0,Effective Engineering Communication,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,W,16,required,MECH 2202,3.0,Heat and Flow Engineering Principles,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,Any,17,required,MECH 2302,3.0,Dynamics,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,Any,18,required,MECH 2401,3.0,Engineering Graphics & CAD Modelling,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,F,19,required,MECH 2502,3.0,Modern Instrumentation and Measurement Techniques,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,W,20,required,TRON 2000,4.0,Mechatronics System Design and Implementation II,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,Any,21,required,MATH 2015,3.0,Applied Multivariate and Vector Calculus,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,W,22,required,CHEM 1100,4.0,Chemistry and Materials Science for Engineers,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,Any,23,required,TECL 2999,0.0,Leadership and Teamwork II,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,SU,24,choice,TECL 2910,0.0,Mechatronics Work-Term I,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,SU,24,choice,COOP 2109,0.0,,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,2,SU,25,required,COOP 2100,2.0,Professional Development for Co-Op Students,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,Any,26,required,EECS 2032,4.0,Introduction to Embedded Systems,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,Any,27,required,EECS 3451,4.0,Signals and Systems,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,Any,28,required,ENG 2001,3.0,"Engineering Projects: Management, Economics & Safety",2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,Any,29,required,ENG 4550,3.0,Introduction to Control Systems,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,W,30,required,TRON 3001,4.0,Fundamentals of Mechatronics,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,Any,31,required,MECH 3302,3.0,Mechanisms for Mechanical Systems,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,Any,32,required,MECH 3409,3.0,Machine Elements Design,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,W,33,required,TRON 3000,4.0,Mechatronics System Design and Implementation III,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,Any,34,required,MATH 2271,3.0,Differential Equations for Scientists and Engineers,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,Any,35,required,MATH 2930,3.0,Introduction to Probability and Statistics,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,Any,36,required,TECL 3999,0.0,Leadership and Teamwork III,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,SU,37,choice,TECL 3910,0.0,Mechatronics Work-Term II,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,SU,37,choice,COOP 3109,0.0,,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,3,SU,38,required,COOP 3100,2.0,Professional Development for Co-Op Students,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,4,F,39,required,ENG 3000,3.0,Professional Engineering Practice,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,4,Y,40,required,ENG 4000,6.0,Engineering Project (Capstone),2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,4,W,41,required,ENG 4650,3.0,Feedback Control Systems,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,4,F,42,required,TRON 4001,4.0,Mechatronic Systems and Design,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,4,Any,43,required,TECL 4999,0.0,Leadership and Teamwork IV,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,4,Any,44,required,TRON 4002,4.0,Courses will be available as the program matures.,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechatronics Engineering,4,Any,45,required,TRON 4003,4.0,,2026-2027-Degree-Checklist-BEng-TRON-8.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,1,F,1,required,EECS 1011,3.0,Computational Thinking Through Mechatronics,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,1,F,2,required,ENG 1101,4.0,"Renaissance Engineer 1: Ethics, Communication and Problem Solving",2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,1,F,4,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,1,F,5,required,PHYS 1800,3.0,Engineering Mechanics,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,1,W,6,required,CHEM 1100,4.0,Chemistry and Materials Science for Engineers,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,1,W,7,required,EECS 1021,3.0,Object Oriented Programming from Sensors to Actuators,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,1,W,8,required,ENG 1102,4.0,Renaissance Engineer 2: Engineering Design Principles,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,1,W,9,required,ESSE 1012,3.0,The Earth Environment,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,1,W,10,required,MATH 1014,3.0,Applied Calculus II,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,1,W,11,required,PHYS 1801,3.0,"Electricity, Magnetism and Optics for Engineers",2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,F,12,required,CIVL 2120,3.0,Civil Engineering Materials,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,F,13,required,CIVL 2150,3.0,Civil Engineering Graphics,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,F,14,required,CIVL 2160,3.0,Geological Processes,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,F,15,required,ENG 2001,3.0,"Engineering Projects: Management, Economics & Safety",2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,F,16,required,MATH 2015,3.0,Applied Multivariate and Vector Calculus,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,W,17,required,CIVL 2000,3.0,Civil Engineering Design Project,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,W,18,required,CIVL 2210,4.0,Fluid Mechanics,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,W,19,required,CIVL 2220,4.0,Mechanics of Materials,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,W,20,required,CIVL 2240,3.0,Introduction to Environmental Engineering,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,W,21,required,ENG 2003,3.0,Effective Engineering Communication,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,W,22,required,MATH 2271,3.0,Differential Equations for Scientists and Engineers,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,W,23,required,MATH 2930,3.0,Introduction to Probability and Statistics,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,2,SU,24,required,ESSE 2635,3.0,Land Surveying for Civil Engineers,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,Any,25,required,ESSE 2210,3.0,Engineering and the Environment,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,F,26,required,CIVL 3110,3.0,Soil Mechanics,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,F,27,required,CIVL 3120,4.0,Hydraulics,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,F,28,required,CIVL 3130,4.0,Structural Analysis,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,F,29,required,CIVL 3140,3.0,Civil Engineering Computational Methods,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,F,30,required,CIVL 3160,3.0,Transportation Engineering,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,F,31,required,ENG 3000,3.0,Professional Engineering Practice,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,W,32,required,CIVL 3210,3.0,Geotechnical Engineering,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,W,33,required,CIVL 3220,3.0,Hydrology,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,W,34,required,CIVL 3230,4.0,Introduction to Structural Design,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,W,35,required,CIVL 3240,3.0,Sanitary and Environmental Engineering,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,3,W,36,required,CIVL 3260,3.0,Transportation Planning & Evaluation,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,4,F,37,required,CIVL 4110,3.0,Civil Engineering Project Management,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,4,W,38,required,CIVL 4210,3.0,Civil Engineering for a Sustainable Future,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Civil Engineering,4,Y,39,required,CIVL 4000,6.0,Civil Engineering Capstone Design Project,2026-2027-Degree-Checklist-BEng-CIVL.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,1,F,1,required,EECS 1011,3.0,Computational Thinking Through Procedural Programming and Mechatronics,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,1,F,2,required,ENG 1101,4.0,"Renaissance Engineering 1: Ethics, Communication and Problem Solving",2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,1,F,4,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,1,F,5,required,PHYS 1800,3.0,Engineering Mechanics,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,1,W,6,required,EECS 1021,3.0,Object Oriented Programming from Sensors to Actuators,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,1,W,7,required,EECS 1028,3.0,Discrete Mathematics for Engineers,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,1,W,8,required,ENG 1102,4.0,Renaissance Engineering 2: Engineering Design Principles,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,1,W,9,required,MATH 1014,3.0,Applied Calculus II,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,1,W,10,required,PHYS 1801,3.0,"Electricity, Magnetism and Optics for Engineers",2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,1,W,11,required,CHEM 1100,4.0,Chemistry and Materials Science for Engineers,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,F,12,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,F,13,required,EECS 2032,4.0,Introduction to Embedded Systems,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,F,14,required,EECS 2200,3.0,Electrical Circuits,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,F,15,required,ENG 2001,3.0,"Engineering Projects: Management, Economics & Safety",2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,F,16,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,F or W,17,required,MATH 2930,3.0,Introduction to Probability and Statistics,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,F,18,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,W,19,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,W,20,required,EECS 2311,3.0,Software Development Project,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,F or W,21,required,ENG 2003,3.0,Effective Engineering Communication,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,F or W,22,required,MATH 2015,3.0,Applied Multivariate and Vector Calculus,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,F or W,23,required,PHYS 2020,3.0,Electricity and Magnetism,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,2,W,24,required,PHYS 2211,1.0,Experimental Electromagnetism,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,3,F,25,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,3,F,26,required,EECS 3201,4.0,Digital Logic Design,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,3,F,27,required,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,3,F,28,required,EECS 3342,3.0,System Specification and Refinement,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,3,W,29,required,EECS 3216,3.0,"Digital Systems Engineering: Modeling,
+Implementation and Validation",2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,3,W,30,required,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,3,W,31,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,3,W,32,required,ENG 3000,3.0,Professional Engineering Practice,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,3,W,33,required,ESSE 2210,3.0,Engineering and the Environment,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,4,Y,34,required,ENG 4000,6.0,Engineering Project (Capstone),2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,4,F,35,required,EECS 3405,3.0,Fundamentals of Machine Learning,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,4,F,36,required,EECS 4312,3.0,Software Engineering Requirements,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,4,F,37,required,EECS 4313,3.0,Software Engineering Testing,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,4,F,38,required,EECS 4314,3.0,Advanced Software Engineering,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,4,W,39,required,EECS 4315,3.0,Mission-Critical Systems,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Big Data Stream,4,W,40,required,EECS 4413,3.0,Building E-Commerce Systems,2026-2027-Degree-Checklist-BEng-SFWR-BD-1.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),1,F,1,required,ESSE 1011,3.0,Introduction to Atmospheric Science,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),1,F,2,required,PHYS 1011,3.0,Physics I,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),1,W,4,required,MATH 1014,3.0,Applied Calculus II,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),1,W,5,required,EECS 1541,3.0,Introduction to Computing for the Physical Sciences,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),1,W,6,required,ESSE 1010,3.0,The Dynamic Earth and Space Geodesy,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),1,W,7,required,PHYS 1012,3.0,Physics II,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),1,F or W,8,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),2,F,9,required,EECS 2501,1.0,Fortran and Scientific Computing,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),2,F,10,required,ESSE 2020,3.0,Introduction to Climate Science,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),2,F,11,required,MATH 2015,3.0,Applied Multivariate & Vector Calculus,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),2,W,12,required,MATH 2271,3.0,Differential Equations for Scientists and Engineers,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),2,W,13,required,ESSE 2010,3.0,Introductory Meteorology,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),2,W,14,required,ESSE 2030,3.0,Planetary Geophysics,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),2,W,15,required,ESSE 2470,3.0,Introduction to Continuum Mechanics,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),2,F or W,16,choice,GEOG 2420,3.0,Quantitative Methods,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),2,F or W,16,choice,MATH 2565,3.0,Introduction to Applied Statistics,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),2,F or W,16,choice,MATH 2930,3.0,Introductory Probability and Statistics,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),2,F or W,17,required,PHYS 2020,3.0,Electricity and Magnetism,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),3,F,18,required,ESSE 3600,3.0,Geographical Information Systems (GIS) and Spatial Analysis,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),3,F,19,required,MATH 3241,3.0,Numerical Methods I,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),3,W,20,required,ESSE 3280,3.0,Physics of the Space Environment,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),4,F,21,required,ESSE 4050,3.0,Synoptic Meteorology I,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),4,F,22,required,ESSE 4120,3.0,Cloud Physics and Radar Meteorology,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),4,W,23,required,ESSE 4051,3.0,Synoptic Meteorology II,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),4,W,24,required,ESSE 4130,3.0,Atmospheric Dynamics II,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),4,W,25,required,ESSE 4140,3.01,Numerical Weather Prediction,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),4,W,26,required,ESSE 4160,3.02,Climate Variability and Climate Change,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialized Honours Earth & Atmospheric Science (Atmospheric Science Stream),4,W,27,required,ESSE 4230,3.03,Remote Sensing of the Atmosphere,2026-2027-Degree-Checklist-Specialized-Hons-BSc-Earth-and-Atmospheric-Science-Atmospheric-Science-Stream.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,1,F,1,required,EECS 1011,3.0,Computational Thinking Through Procedural Programming and Mechatronics,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,1,F,2,required,ENG 1101,4.0,"Renaissance Engineering 1: Ethics, Communication and Problem Solving",2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,1,F,4,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,1,F,5,required,PHYS 1800,3.0,Engineering Mechanics,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,1,W,6,required,EECS 1021,3.0,Object Oriented Programming from Sensors to Actuators,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,1,W,7,required,EECS 1028,3.0,Discrete Mathematics for Engineers,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,1,W,8,required,ENG 1102,4.0,Renaissance Engineering 2: Engineering Design Principles,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,1,W,9,required,MATH 1014,3.0,Applied Calculus II,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,1,W,10,required,PHYS 1801,3.0,"Electricity, Magnetism and Optics for Engineers",2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,1,W,11,required,CHEM 1100,4.0,Chemistry and Materials Science for Engineers,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,F,12,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,F,13,required,EECS 2032,4.0,Introduction to Embedded Systems,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,F,14,required,EECS 2200,3.0,Electrical Circuits,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,F,15,required,ENG 2001,3.0,"Engineering Projects: Management, Economics & Safety",2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,F,16,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,F or W,17,required,MATH 2930,3.0,Introduction to Probability and Statistics,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,F,18,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,W,19,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,W,20,required,EECS 2311,3.0,Software Development Project,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,F or W,21,required,ENG 2003,3.0,Effective Engineering Communication,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,F or W,22,required,MATH 2015,3.0,Applied Multivariate and Vector Calculus,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,F or W,23,required,PHYS 2020,3.0,Electricity and Magnetism,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,2,W,24,required,PHYS 2211,1.0,Experimental Electromagnetism,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,3,F,25,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,3,F,26,required,EECS 3201,4.0,Digital Logic Design,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,3,F,27,required,EECS 3214,3.0,Computer Network Protocols and Applications,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,3,F,28,required,EECS 3342,3.0,System Specification and Refinement,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,3,W,29,required,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,3,W,30,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,3,W,31,required,EECS 3482,3.0,Introduction to Computer Security,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,3,W,32,required,ENG 3000,3.0,Professional Engineering Practice,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,3,W,33,required,ESSE 2210,3.0,Engineering and the Environment,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,4,Y,34,required,ENG 4000,6.0,Engineering Project (Capstone),2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,4,F,35,required,EECS 3481,3.0,Applied Cryptography,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,4,F,36,required,EECS 4312,3.0,Software Engineering Requirements,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,4,F,37,required,EECS 4313,3.0,Software Engineering Testing,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,4,F,38,required,EECS 4482,3.0,"Computer Security Management: Assessment and
+Forensics",2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,4,W,39,required,EECS 3216,3.0,"Digital Systems Engineering: Modeling,
+Implementation and Validation",2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,4,W,40,required,EECS 4314,3.0,Advanced Software Engineering,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,4,W,41,required,EECS 4315,3.0,Mission-Critical Systems,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,4,W,42,required,EECS 4413,3.0,Building E-Commerce Systems,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - Security Stream,4,W,43,required,EECS 4481,4.0,Computer Security Laboratory,2026-2027-Degree-Checklist-BEng-SFWR-SE-1.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),1,F,2,choice,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),1,F,2,choice,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),1,F or W,7,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),2,F,8,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),2,F,9,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),2,F,10,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),2,W,11,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),2,W,12,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),2,W,13,required,EECS 2311,3.0,Software Development Project,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),2,F or W,14,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),2,F or W,15,required,MATH 2030,3.0,Elementary Probability,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),3,F,16,required,EECS 3342,3.0,System Specification and Refinement,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),3,W,17,required,EECS 3000,3.0,Professional Practice in Computing,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),3,F or W,18,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),3,F or W,19,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),3,F or W,20,choice,EECS 3215,4.0,Embedded Systems,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),3,F or W,20,choice,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),3,F or W,21,required,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),3,F or W,22,required,EECS 3461,3.0,User Interfaces,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),4,Any,23,choice,EECS 4101,3.0,Advanced Data Structures,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),4,Any,23,choice,EECS 4111,3.0,Automata and Computability,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),4,Any,23,choice,EECS 4115,3.0,Computational Complexity,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),4,Any,23,choice,EECS 4171,3.0,Advanced Topics in Algorithms,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),4,Any,24,required,EECS 4090,6.0,Software Development Capstone Project,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),4,Any,25,required,EECS 4312,3.0,Software Engineering Requirements,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science (Software Development),4,Any,26,required,EECS 4313,3.0,Software Engineering Testing,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Honours Computer Science,1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,1,F,2,choice,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,1,F,2,choice,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,2,F,7,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,2,F,8,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,2,F,9,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,2,W,10,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,2,W,11,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,2,F or W,12,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,2,F or W,13,required,MATH 2030,3.0,Elementary Probability,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,3,W,14,required,EECS 3000,3.0,Professional Practice in Computing,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,3,F or W,15,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,3,F or W,16,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,3,F or W,17,choice,EECS 3215,4.0,Embedded Systems,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,3,F or W,17,choice,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,3,F or W,18,choice,EECS 3401,3.0,Introduction to Artificial Intelligence and Logic Programming,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,3,F or W,18,choice,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Honours Computer Science,3,F or W,18,choice,EECS 3461,3.0,User Interfaces,2026-2027-Degree-Checklist-BA-Hons-Computer-Science.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,1,F,1,required,EECS 1011,3.0,Computational Thinking Through Procedural Programming and Mechatronics,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,1,F,2,required,ENG 1101,4.0,"Renaissance Engineering 1: Ethics, Communication and Problem Solving",2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,1,F,4,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,1,F,5,required,PHYS 1800,3.0,Engineering Mechanics,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,1,W,6,required,EECS 1021,3.0,Object Oriented Programming from Sensors to Actuators,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,1,W,7,required,EECS 1028,3.0,Discrete Mathematics for Engineers,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,1,W,8,required,ENG 1102,4.0,Renaissance Engineering 2: Engineering Design Principles,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,1,W,9,required,MATH 1014,3.0,Applied Calculus II,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,1,W,10,required,PHYS 1801,3.0,"Electricity, Magnetism and Optics for Engineers",2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,1,W,11,required,CHEM 1100,4.0,Chemistry and Materials Science for Engineers,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,2,F,12,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,2,F,13,required,EECS 2200,3.0,Electrical Circuits,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,2,W,14,required,EECS 2210,3.0,Electronic Circuits and Devices,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,2,W,15,required,EECS 3451,4.0,Signals and Systems,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,2,W,16,required,PHYS 2020,3.0,Electricity and Magnetism,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,2,W,17,required,PHYS 2211,1.0,Experimental Electromagnetism,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,2,F or W,18,required,EECS 2032,4.0,Introduction to Embedded Systems,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,2,F or W,19,required,ENG 2001,3.0,"Engineering Projects: Management, Economics & Safety",2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,2,F or W,20,required,ENG 2003,3.0,Effective Engineering Communication,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,2,F or W,21,required,MATH 2015,3.0,Applied Multivariate and Vector Calculus,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,2,F or W,22,required,MATH 2930,3.0,Introduction to Probability and Statistics,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,3,F,23,required,EECS 3622,4.0,Introduction to Power Systems,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,3,F,24,required,ENG 3000,3.0,Professional Engineering Practice,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,3,W,25,required,EECS 3604,4.0,Applied Electromagnetism,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,3,F or W,26,required,EECS 3201,4.0,Digital Logic Design,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,3,F or W,27,required,EECS 3452,3.0,Linear Control Systems,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,3,F or W,28,required,ESSE 2210,3.0,Engineering and the Environment,2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Electrical Engineering,4,Y,29,required,ENG 4000,6.0,Engineering Project (Capstone),2026-2027-Degree-Checklist-BEng-ELCT-2.xlsx
+Bachelor of Arts (BA) Digital Media,1,F,1,required,DATT 1010,3.0,Intro. to Interactive Digital Media I,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,1,F,2,required,DATT 1200,3.0,Multimedia Asset Creation I,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,1,F,3,required,EECS 1710,3.0,Programming for Digital Media,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,1,W,4,required,DATT 1020,3.0,Intro. to Interactive Digital Media II,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,1,W,5,required,DATT 1100,3.0,Fundamentals of Digital Media Studies,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,1,W,6,required,EECS 1720,3.0,Building Interactive Systems,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,1,F or W,7,required,EECS 1015,3.0,Intro. to Computer Science and Programming,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,1,F or W,8,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,2,F,9,choice,DATT 2040,3.0,"Math, Art, Code",2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,2,F,9,choice,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,2,F,10,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,2,W,11,required,DATT 2050,3.0,Media Signal Processing,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,2,W,12,required,DATT 2100,3.0,Publishing in Digital Media,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,3,W,13,choice,DATT 3700,6.0,Collaborative Project Development,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Digital Media,3,W,13,choice,DATT 3701,6.0,Collaborative Project Development in Games,2026-2027-Degree-Checklist-BA-Digital-Media.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,1,F,1,required,DATT 1010,3.0,Introduction to Interactive Digital Media I,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,1,F,2,required,DATT 1200,3.0,Multimedia Asset Creation I,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,1,F,3,required,EECS 1710,3.0,Programming for Digital Media,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,1,W,4,required,EECS 1720,3.0,Building Interactive Systems,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,1,W,5,required,DATT 1020,3.0,Introduction to Interactive Digital Media II,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,1,W,6,required,DATT 1100,3.0,Fundamentals of Digital Media Studies,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,1,F or W,7,required,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,1,F or W,8,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,2,F,9,required,DATT 2040,3.0,"Math, Art, Code",2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,2,F,10,required,DATT 2300,3.0,Game Design and Prototyping I,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,2,F,11,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,2,W,12,required,DATT 2050,3.0,Media Signal Processing,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,2,W,13,required,DATT 2310,3.0,Game Design and Prototyping II,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,2,W,14,required,DATT 2100,3.0,Publishing in Digital Media,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,3,F,15,required,DATT 3300,3.0,Game Mechanics,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,3,W,16,required,DATT 3701,6.0,Collaborative Project Development in Games,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,4,Y,17,required,EECS 4700,6.0,Digital Media Project,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Game Arts,4,W,18,required,DATT 4301,3.0,Critical Game Play,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMGA.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,1,F,2,choice,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,1,F,2,choice,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,1,F or W,7,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,2,F,8,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,2,F,9,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,2,F,10,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,2,W,11,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,2,W,12,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,2,F or W,13,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,2,F or W,14,required,MATH 2030,3.0,Elementary Probability,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,3,W,15,required,EECS 3000,3.0,Professional Practice in Computing,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,3,F or W,16,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,3,F or W,17,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,3,F or W,18,choice,EECS 3215,4.0,Embedded Systems,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,3,F or W,18,choice,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,3,F or W,19,choice,EECS 3401,3.0,Introduction to Artificial Intelligence and Logic Programming,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,3,F or W,19,choice,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+International Bachelor of Science (iBSc) Honours Computer Science,3,F or W,19,choice,EECS 3461,3.0,User Interfaces,2026-2027-Degree-Checklist-iBSc-Hons-Computer-Science.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,F,1,required,EECS 1011,3.0,Computational Thinking Through Procedural Programming and Mechatronics,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,F,2,required,ENG 1101,4.0,"Renaissance Engineering 1: Ethics, Communication and Problem Solving",2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,F,4,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,F,5,required,PHYS 1800,3.0,Engineering Mechanics,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,W,6,required,EECS 1021,3.0,Object Oriented Programming from Sensors to Actuators,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,W,7,required,ENG 1102,4.0,Renaissance Engineering 2: Engineering Design Principles,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,W,8,required,MATH 1014,3.0,Applied Calculus II,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,W,9,required,PHYS 1801,3.0,"Electricity, Magnetism and Optics for Engineers",2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,W,10,required,CHEM 1100,4.0,Chemistry and Materials Science for Engineers,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,F or W,11,choice,EECS 1028,3.0,Discrete Mathematics for Engineers,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,F or W,11,choice,ESSE 1012,3.0,The Earth Environment,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,F or W,11,choice,TRON 1000,4.0,Mechatronics System Design and Implementation I,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Engineering,1,Any,12,required,TECL 1999,0.0,Leadership and Teamwork I,2026-2027-First-Year-Checklist-BENG.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,1,F,1,required,DATT 1010,3.0,Introduction to Interactive Digital Media I,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,1,F,2,required,DATT 1200,3.0,Multimedia Asset Creation I,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,1,F,3,required,EECS 1710,3.0,Programming for Digital Media,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,1,W,4,required,DATT 1020,3.0,Introduction to Interactive Digital Media II,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,1,W,5,required,DATT 1100,3.0,Fundamentals of Digital Media Studies,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,1,W,6,required,EECS 1720,3.0,Building Interactive Systems,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,1,F or W,7,required,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,1,F or W,8,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,2,F,9,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,2,W,10,required,DATT 2050,3.0,Media Signal Processing,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,2,W,11,required,DATT 2100,3.0,Publishing in Digital Media,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,2,W,12,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,2,F or W,13,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,2,F or W,14,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,2,F or W,15,choice,MATH 1131,3.0,Introduction to Statistics I,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,2,F or W,15,choice,MATH 2565,3.0,Introduction to Applied Statistics,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,3,W,16,required,DATT 3700,6.0,Collaborative Project Development,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Development,4,Y,17,required,EECS 4700,6.0,Digital Media Project,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMD-1.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,1,F,2,choice,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,1,F,2,choice,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,1,F or W,7,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,2,F,8,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,2,F,9,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,2,F,10,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,2,W,11,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,2,W,12,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,2,F or W,13,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,2,F or W,14,required,MATH 2030,3.0,Elementary Probability,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,3,W,15,required,EECS 3000,3.0,Professional Practice in Computing,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,3,F or W,16,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,3,F or W,17,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,3,F or W,18,choice,EECS 3215,4.0,Embedded Systems,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,3,F or W,18,choice,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,3,F or W,19,choice,EECS 3401,3.0,Introduction to Artificial Intelligence and Logic Programming,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,3,F or W,19,choice,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,3,F or W,19,choice,EECS 3461,3.0,User Interfaces,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,4,Any,20,choice,EECS 4101,3.0,Advanced Data Structures,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,4,Any,20,choice,EECS 4111,3.0,Automata and Computability,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,4,Any,20,choice,EECS 4115,3.0,Computational Complexity,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialized Honours Computer Science,4,Any,20,choice,EECS 4171,3.0,Advanced Topics in Algorithms,2026-2027-Degree-Checklist-BSc-Spec-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,1,F,2,choice,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,1,F,2,choice,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,2,F,7,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,2,F,8,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,2,F,9,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,2,W,10,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,2,W,11,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,2,F or W,12,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,3,F or W,13,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,3,F or W,14,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,3,F or W,15,choice,EECS 3215,4.0,Embedded Systems,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,3,F or W,15,choice,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,3,F or W,16,choice,EECS 3401,3.0,Introduction to Artificial Intelligence and Logic Programming,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,3,F or W,16,choice,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Computer Science,3,F or W,16,choice,EECS 3461,3.0,User Interfaces,2026-2027-Degree-Checklist-BSc-Ordinary-Computer-Science.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),1,F,1,required,ESSE 1011,3.0,Introduction to Atmospheric Science,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),1,F,2,required,PHYS 1011,3.0,Physics I,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),1,W,4,required,EECS 1541,3.0,Introduction to Computing for the Physical Sciences,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),1,W,5,required,MATH 1014,3.0,Applied Calculus II,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),1,W,6,required,ESSE 1010,3.0,The Dynamic Earth and Space Geodesy,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),1,W,7,required,PHYS 1070,3.0,Fundamentals of Astronomy,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),1,W,8,required,PHYS 1012,3.0,Physics II,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),1,F or W,9,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),2,F,10,required,EECS 2501,1.0,Fortran and Scientific Computing,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),2,F,11,required,PHYS 2040,3.0,Relativity and Modern Physics,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),2,F,12,required,MATH 2015,3.0,Applied Multivariate & Vector Calculus,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),2,W,13,required,ESSE 2030,3.0,Planetary Geophysics,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),2,W,14,required,ESSE 2470,3.0,Introduction to Continuum Mechanics,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),2,W,15,required,MATH 2271,3.0,Differential Equations for Scientists and Engineers,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),2,W,16,required,PHYS 2010,3.0,Classical Mechanics,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),2,W,17,required,PHYS 2030,3.0,Computational Methods for Physicists and Engineers,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),2,W,18,required,PHYS 2060,3.0,Optics and Spectra,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),2,Y,19,required,PHYS 2213,3.0,Experimental Physics with Data Analysis,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),2,F or W,20,required,PHYS 2020,3.0,Electricity and Magnetism,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),3,F,21,required,ESSE 3600,3.0,Geographical Information Systems (GIS) and Spatial Analysis,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),3,F,22,required,MATH 3241,3.0,Numerical Methods I,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),3,F,23,required,MATH 3271,3.0,Partial Differential Equations,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),3,W,24,required,ESSE 3610,3.0,Geodetic Concepts,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),3,W,25,required,ESSE 3280,3.0,Geographical Information Systems (GIS) and Spatial Analysis,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),4,F,26,required,ESSE 4020,3.0,Time Series and Spectral Analysis,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),4,F,27,required,ESSE 4220,3.0,Remote Sensing of the Earth's Surface,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),4,W,28,required,ESSE 4230,3.0,Remote Sensing of the Atmosphere,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Science (BSc) Specialied Honours Earth & Atmospheric Science (Space Science Stream),4,W,29,required,ESSE 4361,3.0,Space Mission Design,2026-2027-Degree-Checklist-Specialized-Hon-BSc-Earth-and-Atmospheric-Science-Space-Science-Stream.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,1,F,1,required,EECS 1011,3.0,Computational Thinking Through Procedural Programming and Mechatronics,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,1,F,2,required,ENG 1101,4.0,"Renaissance Engineering 1: Ethics, Communication and Problem Solving",2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,1,F,4,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,1,F,5,required,PHYS 1800,3.0,Engineering Mechanics,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,1,W,6,required,EECS 1021,3.0,Object Oriented Programming from Sensors to Actuators,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,1,W,7,required,EECS 1028,3.0,Discrete Mathematics for Engineers,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,1,W,8,required,ENG 1102,4.0,Renaissance Engineering 2: Engineering Design Principles,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,1,W,9,required,MATH 1014,3.0,Applied Calculus II,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,1,W,10,required,PHYS 1801,3.0,"Electricity, Magnetism and Optics for Engineers",2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,1,W,11,required,CHEM 1100,4.0,Chemistry and Materials Science for Engineers,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,F,12,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,F,13,required,EECS 2032,4.0,Introduction to Embedded Systems,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,F,14,required,EECS 2200,3.0,Electrical Circuits,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,F,15,required,ENG 2001,3.0,"Engineering Projects: Management, Economics & Safety",2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,F,16,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,F or W,17,required,MATH 2930,3.0,Introduction to Probability and Statistics,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,W,18,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,W,19,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,W,20,required,EECS 2311,3.0,Software Development Project,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,F or W,21,required,ENG 2003,3.0,Effective Engineering Communication,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,F or W,22,required,MATH 2015,3.0,Applied Multivariate and Vector Calculus,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,F or W,23,required,PHYS 2020,3.0,Electricity and Magnetism,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,2,W,24,required,PHYS 2211,1.0,Experimental Electromagnetism,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,3,F,25,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,3,F,26,required,EECS 3201,4.0,Digital Logic Design,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,3,F,27,required,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,3,F,28,required,ESSE 2210,3.0,Engineering and the Environment,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,3,W,29,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,3,W,30,required,EECS 3342,3.0,System Specification and Refinement,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,3,W,31,required,EECS 3451,4.0,Signals and Systems,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,3,W,32,required,ENG 3000,3.0,Professional Engineering Practice,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,4,Y,33,required,ENG 4000,6.0,Engineering Project (Capstone),2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,4,F,34,required,EECS 3216,3.0,"Digital Systems Engineering: Modeling,
+Implementation and Validation",2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,4,F,35,required,EECS 4312,3.0,Software Engineering Requirements,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,4,F,36,required,EECS 4313,3.0,Software Engineering Testing,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,4,F,37,required,EECS 4314,3.0,Advanced Software Engineering,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,4,W,38,required,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,4,W,39,required,EECS 4315,3.0,Mission-Critical Systems,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Software Engineering - General Stream,4,W,40,required,EECS 4413,3.0,Building E-Commerce Systems,2026-2027-Degree-Checklist-BEng-SFWR-GS-1.xlsx
+Bachelor of Science (BSc) Honours Computer Science,1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,1,F,2,choice,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,1,F,2,choice,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,2,F,7,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,2,F,8,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,2,F,9,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,2,W,10,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,2,W,11,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,2,F or W,12,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,2,F or W,13,required,MATH 2030,3.0,Elementary Probability,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,3,W,14,required,EECS 3000,3.0,Professional Practice in Computing,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,3,F or W,15,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,3,F or W,16,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,3,F or W,17,choice,EECS 3215,4.0,Embedded Systems,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,3,F or W,17,choice,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,3,F or W,18,choice,EECS 3401,3.0,Introduction to Artificial Intelligence and Logic Programming,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,3,F or W,18,choice,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+Bachelor of Science (BSc) Honours Computer Science,3,F or W,18,choice,EECS 3461,3.0,User Interfaces,2026-2027-Degree-Checklist-BSc-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,1,F,2,choice,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,1,F,2,choice,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,2,F,7,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,2,F,8,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,2,F,9,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,2,W,10,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,2,W,11,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,2,F or W,12,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,2,F or W,13,required,MATH 2030,3.0,Elementary Probability,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,3,F or W,14,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,3,F or W,15,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,3,F or W,16,choice,EECS 3215,4.0,Embedded Systems,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,3,F or W,16,choice,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,3,F or W,17,choice,EECS 3401,3.0,Introduction to Artificial Intelligence and Logic Programming,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,3,F or W,17,choice,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+International Bachelor of Arts (iBA) Honours Computer Science,3,F or W,17,choice,EECS 3461,3.0,User Interfaces,2026-2027-Degree-Checklist-iBA-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,1,F,2,required,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,1,F or W,7,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,1,F or W,8,required,MATH 1131,3.0,Introduction to Statistics I,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,2,F,9,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,2,F,10,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,2,F,11,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,2,W,12,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,2,W,13,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,2,W,14,required,EECS 3482,3.0,Introduction to Computer Security,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,2,F or W,15,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,2,F or W,16,required,MATH 2030,3.0,Elementary Probability,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,2,Any,17,choice,PHIL 2075,3.0,Introduction to Applied Ethics,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,2,Any,17,choice,STS 3500,3.0,The Global Information Society,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,3,F,18,required,EECS 3481,3.0,Applied Cryptography,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,3,W,19,required,EECS 3000,3.0,Professional Practice in Computing,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,3,F or W,20,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,3,F or W,21,required,EECS 3213,3.0,Communication Networks,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,3,F or W,22,required,EECS 3214,3.0,Computer Network Protocols and Applications,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,3,F or W,23,required,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,3,F or W,24,choice,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,3,F or W,24,choice,ITEC 3220,3.0,Using and Designing Database Systems,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,4,F,25,required,EECS 4482,3.0,Network Security and Forensics,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,4,W,26,required,EECS 4481,4.0,Computer Security Laboratory,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,4,W,27,required,EECS 4484,3.0,Malware Analysis,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,4,F or W,28,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,4,F or W,29,required,EECS 4413,3.0,Building E-Commerce Systems,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Specialized Honours Cybersecurity,4,F or W,30,required,EECS 4480,3.0,Computer Security Project,2026-2027-Degree-Checklist-BA-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,1,F,2,required,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,1,F or W,7,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,1,F or W,8,required,MATH 1131,3.0,Introduction to Statistics I,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,2,F,9,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,2,F,10,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,2,F,11,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,2,W,12,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,2,W,13,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,2,W,14,required,EECS 3482,3.0,Introduction to Computer Security,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,2,F or W,15,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,2,F or W,16,required,MATH 2030,3.0,Elementary Probability,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,2,Any,17,choice,PHIL 2075,3.0,Introduction to Applied Ethics*,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,2,Any,17,choice,STS 3500,3.0,The Global Information Society,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,3,F,18,required,EECS 3481,3.0,Applied Cryptography,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,3,W,19,required,EECS 3000,3.0,Professional Practice in Computing,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,3,F or W,20,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,3,F or W,21,required,EECS 3213,3.0,Communication Networks,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,3,F or W,22,required,EECS 3214,3.0,Computer Network Protocols and Applications,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,3,F or W,23,required,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,3,F or W,24,required,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,4,F,25,required,EECS 4482,3.0,Network Security and Forensics,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,4,W,26,required,EECS 4481,4.0,Computer Security Laboratory,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,4,W,27,required,EECS 4484,3.0,Malware Analysis,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,4,F or W,28,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,4,F or W,29,required,EECS 4413,3.0,Building E-Commerce Systems,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Science (BSc) Specialized Honours Cybersecurity,4,F or W,30,required,EECS 4480,3.0,Computer Security Project,2026-2027-Degree-Checklist-BSc-Spec-Hons-Cybersecurity.xlsx
+Bachelor of Arts (BA) Computer Science,1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,1,F,2,choice,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,1,F,2,choice,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,2,F,7,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,2,F,8,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,2,F,9,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,2,W,10,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,2,W,11,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,2,F or W,12,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,3,F or W,13,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,3,F or W,14,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,3,F or W,15,choice,EECS 3215,4.0,Embedded Systems,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,3,F or W,15,choice,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,3,F or W,16,choice,EECS 3401,3.0,Introduction to Artificial Intelligence and Logic Programming,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,3,F or W,16,choice,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Computer Science,3,F or W,16,choice,EECS 3461,3.0,User Interfaces,2026-2027-Degree-Checklist-BA-Ordinary-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,1,F,1,required,DATT 1010,3.0,Introduction to Interactive Digital Media I,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,1,F,2,required,DATT 1200,3.0,Multimedia Asset Creation I,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,1,F,3,required,EECS 1710,3.0,Programming for Digital Media,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,1,W,4,required,DATT 1020,3.0,Introduction to Interactive Digital Media II,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,1,W,5,required,DATT 1100,3.0,Fundamentals of Digital Media Studies,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,1,W,6,required,EECS 1720,3.0,Building Interactive Systems,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,1,F or W,7,required,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,1,F or W,8,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,2,F,9,required,DATT 2040,3.0,"Math, Art, Code",2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,2,F,10,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,2,W,11,required,DATT 2050,3.0,Media Signal Processing,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,2,W,12,required,DATT 2100,3.0,Publishing in Digital Media,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,3,W,13,required,DATT 3700,6.0,Collaborative Project Development,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,3,F or W,14,required,EECS 3461,3.0,User Interfaces,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Digital Media - Digital Media Arts,4,Y,15,required,EECS 4700,6.0,Digital Media Project,2026-2027-Degree-Checklist-BA-Spec.-Hons-Digital-Media-DMA.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,1,F,2,choice,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,1,F,2,choice,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,1,F or W,7,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,2,F,8,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,2,F,9,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,2,F,10,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,2,W,11,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,2,W,12,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,2,F or W,13,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,2,F or W,14,required,MATH 2030,3.0,Elementary Probability,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,3,W,15,required,EECS 3000,3.0,Professional Practice in Computing,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,3,F or W,16,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,3,F or W,17,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,3,F or W,18,choice,EECS 3215,4.0,Embedded Systems,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,3,F or W,18,choice,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,3,F or W,19,choice,EECS 3401,3.0,Introduction to Artificial Intelligence and Logic Programming,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,3,F or W,19,choice,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,3,F or W,19,choice,EECS 3461,3.0,User Interfaces,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,4,Any,20,choice,EECS 4101,3.0,Advanced Data Structures,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,4,Any,20,choice,EECS 4111,3.0,Automata and Computability,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,4,Any,20,choice,EECS 4115,3.0,Computational Complexity,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science,4,Any,20,choice,EECS 4171,3.0,Advanced Topics in Algorithms,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,1,F,1,required,EECS 1011,3.0,Computational Thinking Through Procedural Programming and Mechatronics,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,1,F,2,required,ENG 1101,4.0,"Renaissance Engineering 1: Ethics, Communication and Problem Solving",2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,1,F,4,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,1,F,5,required,PHYS 1800,3.0,Engineering Mechanics,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,1,W,6,required,EECS 1021,3.0,Object Oriented Programming from Sensors to Actuators,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,1,W,7,required,EECS 1028,3.0,Discrete Mathematics for Engineers,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,1,W,8,required,ENG 1102,4.0,Renaissance Engineering 2: Engineering Design Principles,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,1,W,9,required,MATH 1014,3.0,Applied Calculus II,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,1,W,10,required,PHYS 1801,3.0,"Electricity, Magnetism and Optics for Engineers",2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,1,W,11,required,CHEM 1100,4.0,Chemistry and Materials Science for Engineers,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,F,12,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,F,13,required,EECS 2200,3.0,Electrical Circuits,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,W,14,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,W,15,required,EECS 2210,3.0,Electronic Circuits and Devices,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,W,16,required,PHYS 2020,3.0,Electricity and Magnetism,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,W,17,required,PHYS 2211,1.0,Experimental Electromagnetism,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,F or W,18,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,F or W,19,required,EECS 2032,4.0,Introduction to Embedded Systems,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,F or W,20,required,ENG 2001,3.0,"Engineering Projects: Management, Economics & Safety",2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,F or W,21,required,ENG 2003,3.0,Effective Engineering Communication,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,F or W,22,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,F or W,23,required,MATH 2015,3.0,Applied Multivariate and Vector Calculus,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,2,F or W,24,required,MATH 2930,3.0,Introduction to Probability and Statistics,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,3,F,25,required,EECS 3201,4.0,Digital Logic Design,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,3,F,26,required,ENG 3000,3.0,Professional Engineering Practice,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,3,W,27,required,EECS 3216,3.0,"Digital Systems Engineering: Modeling, Implementation
+and Validation",2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,3,F or W,28,required,EECS 3213,3.0,Communication Networks,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,3,F or W,29,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,3,F or W,30,required,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,3,F or W,31,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,3,F or W,32,required,EECS 3451,4.0,Signals and Systems,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,3,F or W,33,required,ESSE 2210,3.0,Engineering and the Environment,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,4,Y,34,required,ENG 4000,6.0,Engineering Project (Capstone),2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,4,F or W,35,required,EECS 4201,3.0,Computer Architecture,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,4,F or W,36,required,EECS 4214,4.0,Digital Communications,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Computer Engineering,4,F or W,37,required,EECS 4312,3.0,Software Engineering Requirements,2026-2027-Degree-Checklist-BEng-CMPR-3.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),1,Y,1,required,EECS 1001,1.0,Research Directions in Computing,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),1,F,2,choice,EECS 1012,3.0,Introduction to Computing: A Net-centric Approach,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),1,F,2,choice,EECS 1015,3.0,Introduction to Computer Science and Programming,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),1,F,3,required,MATH 1300,3.0,Differential Calculus with Applications,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),1,W,4,required,EECS 1022,3.0,Introduction to Object Oriented Programming,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),1,W,5,required,MATH 1310,3.0,Integral Calculus with Applications,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),1,F or W,6,required,EECS 1019,3.0,Discrete Mathematics for Computer Science,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),1,F or W,7,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),2,F,8,required,EECS 2001,3.0,Introduction to the Theory of Computation,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),2,F,9,required,EECS 2021,4.0,Computer Organization,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),2,F,10,required,EECS 2030,3.0,Advanced Object Oriented Programming,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),2,W,11,required,EECS 2031,3.0,Software Tools,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),2,W,12,required,EECS 2101,3.0,Fundamentals of Data Structures,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),2,W,13,required,EECS 2311,3.0,Software Development Project,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),2,F or W,14,required,MATH 1090,3.0,Introduction to Logic for Computer Science,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),2,F or W,15,required,MATH 2030,3.0,Elementary Probability,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),3,F,16,required,EECS 3342,3.0,System Specification and Refinement,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),3,W,17,required,EECS 3000,3.0,Professional Practice in Computing,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),3,F or W,18,required,EECS 3101,3.0,Design and Analysis of Algorithms,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),3,F or W,19,required,EECS 3311,3.0,Software Design,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),3,F or W,20,choice,EECS 3215,4.0,Embedded Systems,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),3,F or W,20,choice,EECS 3221,3.0,Operating System Fundamentals,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),3,F or W,21,required,EECS 3421,3.0,Introduction to Database Systems,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),3,F or W,22,required,EECS 3461,3.0,User Interfaces,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),4,Any,23,choice,EECS 4101,3.0,Advanced Data Structures,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),4,Any,23,choice,EECS 4111,3.0,Automata and Computability,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),4,Any,23,choice,EECS 4115,3.0,Computational Complexity,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),4,Any,23,choice,EECS 4171,3.0,Advanced Topics in Algorithms,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),4,Any,24,required,EECS 4090,6.0,Software Development Capstone Project,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),4,Any,25,required,EECS 4312,3.0,Software Engineering Requirements,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Arts (BA) Specialized Honours Computer Science (Software Development),4,Any,26,required,EECS 4313,3.0,Software Engineering Testing,2026-2027-Degree-Checklist-BA-Spec-Hons-Computer-Science-SD.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,1,F,1,required,ESSE 1011,3.0,Introduction to Atmospheric Science,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,1,F,2,required,PHYS 1011,3.0,Physics I,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,1,W,4,required,MATH 1014,3.0,Applied Calculus II,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,1,W,5,required,EECS 1541,3.0,Introduction to Computing for the Physical Science,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,1,W,6,required,ESSE 1010,3.0,The Dynamic Earth and Space Geodesy,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,1,W,7,required,PHYS 1012,3.0,Physics II,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,1,F or W,8,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,2,F,9,required,EECS 2501,1.0,Fortran and Scientific Computing,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,2,F,10,required,ESSE 2020,3.0,Introduction to Climate Science,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,2,F,11,required,MATH 2015,3.0,Applied Multivariate & Vector Calculus,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,2,W,12,required,MATH 2271,3.0,Differential Equations for Scientists and Engineers,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,2,W,13,required,ESSE 2010,3.0,Introductory Meteorology,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,2,W,14,required,ESSE 2030,3.0,Planetary Geophysics,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,2,W,15,required,ESSE 2470,3.0,Introduction to Continuum Mechanics,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,2,F or W,16,choice,GEOG 2420,3.0,Quantitative Methods,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,2,F or W,16,choice,MATH 2565,3.0,Introduction to Applied Statistics,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,2,F or W,16,choice,MATH 2930,3.0,Introductory Probability and Statistics,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,2,F or W,17,required,PHYS 2020,3.0,Electricity and Magnetism,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Science (BSc) Earth & Atmospheric Science,3,F,18,required,ESSE 3600,3.0,Geographical Information Systems (GIS) and Spatial Analysis,2026-2027-Degree-Checklist-BSc-Earth-Atmospheric-Science-1.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,1,F,1,required,EECS 1011,3.0,Computational Thinking Through Mechatronics,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,1,F,2,required,ENG 1101,4.0,"Renaissance Engineer 1: Ethics, Communication and Problem Solving",2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,1,F,3,required,MATH 1013,3.0,Applied Calculus I,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,1,F,4,required,MATH 1025,3.0,Applied Linear Algebra,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,1,F,5,required,PHYS 1800,3.0,Engineering Mechanics,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,1,W,6,required,CHEM 1100,4.0,Chemistry and Materials Science for Engineers,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,1,W,7,required,EECS 1021,3.0,Object Oriented Programming from Sensors to Actuators,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,1,W,8,required,ENG 1102,4.0,Renaissance Engineer 2: Engineering Design Principles,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,1,W,9,required,ESSE 1012,3.0,The Earth Environment,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,1,W,10,required,MATH 1014,3.0,Applied Calculus II,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,1,W,11,required,PHYS 1801,3.0,"Electricity, Magnetism and Optics for Engineers",2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,F,12,required,ENG 2001,3.0,"Engineering Projects: Management, Economics & Safety",2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,F,13,required,MATH 2015,3.0,Applied Multivariate and Vector Calculus,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,F,14,required,MECH 2201,3.0,Thermodynamics,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,F,15,required,MECH 2301,3.0,Mechanics of Materials 1,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,W,16,required,ENG 2003,3.0,Effective Engineering Communication,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,W,17,required,MATH 2271,3.0,Differential Equations for Scientists and Engineers,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,W,18,required,MATH 2930,3.0,Introduction to Probability and Statistics,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,W,19,required,MECH 2202,3.0,Heat and Flow Engineering Principles,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,F or W,20,required,MECH 2302,3.0,Dynamics,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,F or W,21,required,MECH 2401,3.0,Engineering Graphics & CAD Modelling,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,W,22,required,MECH 2412,3.0,Mini Design Project 1,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,2,F or W,23,required,MECH 2502,3.0,Modern Instrumentation and Measurement Techniques,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,F,24,required,EECS 3505,3.0,Electrical Systems for Mechanical Engineers,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,F,25,required,MECH 3201,3.0,Engineering Thermodynamics,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,F,26,required,MECH 3202,3.0,Fluid Dynamics,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,F,27,required,MECH 3409,3.0,Machine Elements Design,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,W,28,required,MECH 2112,3.0,Mechanical Engineering: Professionalism and Society,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,W,29,required,MECH 3203,3.0,Heat Transfer,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,W,30,required,MECH 3401,3.0,Mini Design Project 2,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,W,31,required,MECH 3503,3.0,Macro- and Micro-Manufacturing Methods,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,F or W,32,required,ESSE 2210,3.0,Engineering and the Environment,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,F or W,33,required,MECH 3302,3.0,Mechanisms for Mechanical Systems,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,F or W,34,required,MECH 3504,3.0,Thermofluid Laboratory,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,3,F or W,35,required,MECH 3502,3.0,Solid Mechanics and Materials Laboratory,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,4,F,36,required,ENG 3000,3.0,Professional Engineering Practice,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,4,F,37,required,MECH 4402,4.0,Simulation Tools for Design & Analysis,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Engineering (BEng) Specialized Honours Mechanical Engineering,4,F or W,38,required,ENG 4550,3.0,Introduction to Control Systems,2026-2027-Degree-Checklist-BEng-MECH-3.xlsx
+Bachelor of Science (BSc) Honours Data Science - Business Stream,1,F or W,1028,required,MATH 1013,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,1,F or W,1029,required,MATH 1014,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,1,F or W,1030,required,MATH 1019,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,1,F or W,1031,required,MATH 1025,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,1,F or W,1032,required,MATH 1130,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,1,F or W,1033,required,MATH 1131,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,2,F or W,1034,required,MATH 2015,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,2,F or W,1035,required,MATH 2030,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,2,F or W,1036,required,MATH 2130,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,2,F or W,1037,required,MATH 2131,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,3,F or W,1038,required,MATH 3330,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,3,F or W,1039,required,MATH 3333,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,4,F or W,1040,required,MATH 4036,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,4,F or W,1041,required,MATH 4931,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,4,F or W,1042,required,MATH 4949,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,1,F or W,1043,required,EECS 1015,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,1,F or W,1044,required,EECS 1516,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,2,F or W,1045,required,EECS 2502,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,3,F or W,1046,required,ITEC 3221,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,3,F or W,1047,required,ITEC 3310,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,2,F or W,1048,required,WRIT 2202,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,3,F or W,1049,required,PHIL 3500,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,1,F or W,1050,required,MGMT 1000,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,1,F or W,1051,required,MKTG 1030,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,2,F or W,1052,required,FINE 2000,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,2,F or W,1053,required,ACTG 2010,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"
+Bachelor of Science (BSc) Honours Data Science - Business Stream,2,F or W,1054,required,OMIS 2010,,,"York Undergraduate Calendar 2026-27, Data Science BSc Honours (year inferred from course number)"

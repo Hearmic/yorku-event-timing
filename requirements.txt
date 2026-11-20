@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+plotly
+jupyterlab
+# only needed to re-parse raw sources
+beautifulsoup4
+lxml
+openpyxl
